@@ -30,7 +30,8 @@ A real-time video conferencing web application built using **WebRTC, Socket.IO, 
 1. Clone the repository:
 ```bash
 git clone https://github.com/Aditya-govil007/Video-Conference-Web-Application.git
-```
+
 2.Navigate to project directory: cd Video-Conference-Web-Application
 3.Install dependencies: npm install
 4.Start the application: node app.js
+```
