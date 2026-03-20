@@ -33,7 +33,8 @@ git clone https://github.com/Aditya-govil007/Video-Conference-Web-Application.gi
 ```
 
 2.Navigate to project directory: 
-```cd Video-Conference-Web-Application
+```
+cd Video-Conference-Web-Application
 ```
 3.Install dependencies:
 ```
