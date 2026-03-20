@@ -44,3 +44,30 @@ npm install
 ```
 node app.js
 ```
+
+---
+
+📌 Future Enhancements
+
+🔐 User Authentication (Login/Signup)
+
+💬 Chat feature during video calls
+
+📊 Meeting analytics
+
+☁️ Cloud deployment (AWS/Render)
+
+---
+
+🙌 Author
+
+Aditya Govil
+📧 adityagovil2004@gmail.com
+
+🔗 GitHub: https://github.com/Aditya-govil007
+
+---
+
+⭐ Support
+
+If you found this project useful, please give it a ⭐ on GitHub!
