@@ -1,16 +1,32 @@
-# Video Meeting
+# 🎥 Video Conference Web Application
 
-Google Meet / Zoom clone in a few lines of code.
+A real-time video conferencing web application built using **WebRTC, Socket.IO, React, and Node.js**. This application enables seamless peer-to-peer video and audio communication with support for multi-user rooms.
 
-Video Meeting is a video conference website that lets you stay in touch with all your friends.
+---
 
-Developed with ReactJS, Node.js, SocketIO, Express.js
+## 🚀 Features
+
+- 🔴 Real-time video & audio communication  
+- 👥 Multi-user video conferencing rooms  
+- 🔗 Unique room link generation  
+- ⚡ Low-latency peer-to-peer connection (WebRTC)  
+- 🌐 Cross-browser compatibility  
+- 📱 Responsive UI  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, HTML, CSS  
+- **Backend:** Node.js, Express.js  
+- **Real-time Communication:** Socket.IO  
+- **WebRTC:** Peer-to-peer media streaming  
+
+---
 
 
-### Features
-- Is 100% free and open-source
-- No account needed
-- Unlimited users
-- Messaging chat and video streaming in real-time
-- Screen sharing to present documents, slides, and more
-- Everyting is peer-to-peer thanks to webrtc
+## ⚙️ Installation & Setup
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Aditya-govil007/Video-Conference-Web-Application.git
